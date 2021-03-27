@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/DetailProduct.jsp=UTF-8
+encoding//WebContent/welcomeAdmin.jsp=UTF-8
+encoding//src/common/StringCommon.java=UTF-8
+encoding//src/controller/EditProductServlet.java=UTF-8
+encoding//src/model/dao/AddCommentDAO.java=UTF-8
+encoding//src/model/dao/CreateProductDAO.java=UTF-8
+encoding//src/model/dao/EditProductDAO.java=UTF-8
